@@ -95,7 +95,7 @@ Prerequisites
 Clone the Repository
 
 ```bash
-git clone https://github.com/M-D-Nadeem/LMS_Project.git
+git clone https://github.com/adityab5/lms.git
 cd LMS_Project
 ```
 
