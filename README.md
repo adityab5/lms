@@ -96,7 +96,7 @@ Clone the Repository
 
 ```bash
 git clone https://github.com/adityab5/lms.git
-cd LMS_Project
+cd lms
 ```
 
 Install Dependencies
