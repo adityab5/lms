@@ -1,7 +1,6 @@
 
-# Project Title
+# LMS- Learning Management System 
 
-LMS- Learning Management System 
 
 The Learning Management System (LMS) project is a user-friendly website designed to provide an affordable and structured platform for users to purchase and consume courses. The website ensures that lectures are presented in an orderly and organized manner, enhancing the learning experience for users.
 
