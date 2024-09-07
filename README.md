@@ -111,8 +111,7 @@ Install Dependencies
 - Install the frontend dependencies
     
 ```bash
-  cd lms-frontend
-  cd vite-project
+  cd client
   npm install 
   cd..
 ```
