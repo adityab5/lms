@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const BASE_URL = "https://lms-three-sigma.vercel.app/";
+const BASE_URL = "https://lms-gw0x.onrender.com";
 
 const axiosInstance = axios.create();
 
