@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const BASE_URL = "https://lms-three-sigma.vercel.app/api/v1";
+const BASE_URL = "https://lms-three-sigma.vercel.app/";
 
 const axiosInstance = axios.create();
 
